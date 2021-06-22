@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hi there, I'm Frank! 👋
 
-<!--
-**FrankR-7/FrankR-7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Here are my github stats! 🤠
 
-Here are some ideas to get you started:
+[![Frank's Github Stats](https://github-readme-stats.vercel.app/api?username=FrankR-7&show_icons=true&count_private=true)](https://github.com/FrankR-7/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrankR-7)](https://github.com/FrankR-7/)
+
+
+## A little bit about me 🔎
+
+- 🌱 I’m currently learning: Svelte
+- 📫 How to reach me: email should be attached to my profile, but if you want a sure way to reach me I'm on discord; username: furankī#9333
+- ⚡ Fun fact: I'm an architect 📐
